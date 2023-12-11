@@ -57,14 +57,14 @@ export const info = {
     portfolio: [
         {
             title : "Implémentation du front-end d'une application bancaire avec React. Création d'une application web complète et responsive avec React. Utilisation de Redux pour gérer le state de l'ensemble de l'application. Préparation des routes API pour la partie transaction du site, rédaction du document YAML.",
-            live: "https://sang-loi.github.io/ArgentBank/",
+            live: "https://argent-bank-pi.vercel.app/",
             source: "https://github.com/Sang-loi/ArgentBank",
             image: mock1,
             techno: [mock4, mock5, mock6, mock7, mock8, mock9]
         },
         {
             title : "Le site de Kasa a été codé il y a maintenant plus de 10 ans en ASP.NET avec un code legacy important. Nous avons donc lancé une refonte totale pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end.",
-            live: "https://sang-loi.github.io/Kasa/",
+            live: "https://kasa-mocha-delta.vercel.app/",
             source: "https://github.com/Sang-loi/Kasa",
             image: mock2,
             techno : [mock4, mock5, mock6, mock9]
