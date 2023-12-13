@@ -70,7 +70,7 @@ export const info = {
             techno : [mock4, mock5, mock6, mock9]
         },
         {
-            title : "L'agence 724 Events souhaitait publier la nouvelle version de son site vitrine. Il s'agit d'un site one-page. Le design avait été validé, et un premier développeur freelance avait commencé l'intégration. Ce freelance a dû abandonner le projet pour raisons personnelles. Le site était fonctionnel, mais quelques bugs entravaient le bon usage par les visiteurs. 77events a donc fait appel à moi pour finaliser le travail.",
+            title : "L'agence 724 Events souhaitait publier la nouvelle version de son site vitrine. Il s'agit d'un site one-page. Le design avait été validé, et un premier développeur freelance avait commencé l'intégration. Ce freelance a dû abandonner le projet pour raisons personnelles. Le site était fonctionnel, mais quelques bugs entravaient le bon usage par les visiteurs. 724 events a donc fait appel à moi pour finaliser le travail.",
             live: "https://724events-rust.vercel.app/",
             source: "https://github.com/Sang-loi/724events",
             image: mock3,
