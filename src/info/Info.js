@@ -15,7 +15,7 @@ export const info = {
     firstName: "Paul",
     lastName: "Gerbaux",
     initials: "pgx", 
-    position: "À la recherche d'un poste de Développeur ou de Product Owner",
+    position: "Développeur web, Product Owner",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this
     baseColor: colors[0],
