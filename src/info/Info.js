@@ -15,7 +15,7 @@ export const info = {
     firstName: "Paul",
     lastName: "Gerbaux",
     initials: "pgx", 
-    position: "Développeur web, Product Owner",
+    position: "Talent Acqusition Specialist IT",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this
     baseColor: colors[0],
@@ -29,7 +29,7 @@ export const info = {
             text: "paul.gerbaux@gmail.com"
         }
     ],
-    bio: "Passionné par le SaaS et en reconversion vers le développement informatique, j'ai forgé mon parcours dans le recrutement et la relation client. Ma transition vers le monde du développement s'articule autour d'une formation intense en intégration web chez OpenClassrooms. Fort d'une expérience polyvalente, je recherche à m'épanouir en tant que développeur, product owner ou chef de projet, alliant compétences acquises et passion pour l'innovation technologique",
+    bio: "Passionné par le SaaS et en reconversion vers le développement informatique, j'ai forgé mon parcours dans le recrutement et la relation client. Ma transition vers le monde du développement s'articule autour d'une formation intense en intégration web chez OpenClassrooms. Fort d'une expérience polyvalente, je recherche à m'épanouir en tant que recruteur IT, alliant compétences acquises et passion pour l'innovation technologique",
     skills:
         {
             proficientWith: ['Javascript', 'NodeJS', 'React', 'Redux', 'git', 'github', 'html5', 'css3', 'figma', 'Redux', 'LinkedIn', 'HubSpot', 'lemlist', 'Notion', 'Tableaux', 'Intercom', 'Anglais'],
